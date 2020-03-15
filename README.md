@@ -30,6 +30,6 @@ This is a suggested list of steps for setting up your team's repo
 
 1. Download the project starter template from (https://github.com/web-development-computing-etsu/_overview/tree/master/templates)
 2. Extract the file to your local drive 
-3. Upload the files to your repo
+3. Upload the files to your repo (Use GitHub Desktop. Or the CLI, if you're brave)
 4. Let your team know when the repo is ready for them to download to their PCs
 5. Start collaborating!
