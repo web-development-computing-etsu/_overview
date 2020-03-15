@@ -1,0 +1,28 @@
+/*
+    template.css
+
+    Author(s):          
+    Date:               
+    Last revised:       
+    Purpose:            Create CSS stylesheet(s) for project
+*/
+
+* {
+    box-sizing: border-box;     /* collapse content, padding, border */
+}
+
+/* compatibility for pre-HTML5 browsers */
+header, section, footer, aside, nav, main, article, figure {
+  display: block;
+}
+
+body {
+    margin: 0;
+    content: "";
+    clear: both;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+/* add CSS here */
