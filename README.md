@@ -23,7 +23,7 @@ These general instructions will help acclimate you to the GitHub environment usi
 * <https://help.github.com/desktop/guides/contributing/>
 
 ## Communication
-In addition to email/Discourse/Skype/etc., there is a discussion board that can be used for communication
+In addition to email/Discourse/Skype/etc., there is a discussion board that can be used for communication. To access it, just navigate to your team's landing page (e.g., `https://github.com/web-development-computing-etsu/your_team_name`)
  
 ## Starting Out - Team Leads
 This is a suggested list of steps for setting up your team's repo
